@@ -9,10 +9,15 @@ Welcome to my data analytics portfolio. This repository contains beginner-friend
 - Data visualization
 - Business insights and reporting
 
-## Projects (Coming Soon)
-- Customer Churn Analysis (Python)
-- Sales Performance Analysis (SQL)
-- Power BI Revenue Dashboard
+## Projects
+
+### Berlin Airbnb Price Analysis
+- Analyzed Airbnb listings in Berlin using Python (pandas, matplotlib)  
+- Cleaned and processed real-world data, including handling missing values and outliers  
+- Identified pricing patterns across neighborhoods and room types  
+- Created visualizations to communicate key insights  
+
+📎 [View Project](airbnb_analysis.ipynb)
 
 ## Tools & Technologies
 - Python (Pandas, Matplotlib)
